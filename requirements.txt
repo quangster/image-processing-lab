@@ -4,3 +4,5 @@ ipykernel
 matplotlib
 imutils
 scikit-learn
+torch
+torchvision
